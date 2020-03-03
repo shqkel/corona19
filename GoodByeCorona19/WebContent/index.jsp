@@ -9,6 +9,7 @@
 <body>
 	<h1>GoodByeCorona19</h1>
 	<p>코로나 꺼져~</p>
+	<p>Cat says "코로나 꺼져~"</p>
 
 
 </body>
